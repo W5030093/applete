@@ -22,5 +22,5 @@
 <view>{{var4}}</view>
   </view>
   <button bindtap="toastShow">你好</button>
-  <map longitude='117.12' latitude='36.651216'></map>
+ 
 </view>
