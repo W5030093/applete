@@ -21,6 +21,6 @@
 <view>{{var3}}</view>
 <view>{{var4}}</view>
   </view>
-  <button bindtap="toastShow">你好</button>
+  <button bindtap="toastShow" hidden='true'> 你好</button>
  
 </view>
